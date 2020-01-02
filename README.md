@@ -2,7 +2,7 @@
 A tool to automate adding Hot Cue and Memory points in Pioneer's Rekordbox DJ software. 
 The tool adds these points at every the first 16 bars in a song followed by two 8 bar cues and then 16 bars untill there are no remaining cue points. 
 
-![](tutorial/Lazy Cue v1.02.gif)
+![](tutorial/Lazy\ Cue\ v1.02.gif)
 
 ## WARNING «
 For best results log into Kuvo and DO NOT Touch the keyboard or mouse once the script is going. 
