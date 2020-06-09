@@ -9,7 +9,7 @@ For best results log into Kuvo and DO NOT Touch the keyboard or mouse once the s
 
 ## How to use
 1. Make a playlist in rekordbox.
-2. Make sure that you've prelined up the tracks for the best results. 
+2. Make sure that you've aligned the beat grid correctly with the first cue on the first down beat or it will add missaligned cue points.
 3. Find out how many tracks are in the playlist. (For best results use this on tracks that don't have cue points set.)
 4. Click first track on the playlist. 
 5. Press play in the script editor.
