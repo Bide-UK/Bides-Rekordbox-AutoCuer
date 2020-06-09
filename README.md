@@ -7,6 +7,8 @@ The tool adds these points at every the first 16 bars in a song followed by two 
 ## WARNING «
 For best results log into Kuvo and DO NOT Touch the keyboard or mouse once the script is going. 
 
+ONLY WORKS WITH DEFAULT REKORDBOX HOT KEYS!
+
 ## How to use
 1. Make a playlist in rekordbox.
 2. Make sure that you've aligned the beat grid correctly with the first cue on the first down beat or it will add missaligned cue points.
