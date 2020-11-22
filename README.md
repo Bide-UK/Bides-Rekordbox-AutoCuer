@@ -43,7 +43,7 @@ The advanced script needs some additional hot keys added.
 ## How to use
 1. Ensure Rekorbox is open and in the Export 1 Player setting in the top left.
 
-![Alt Text](https://github.com/Bide-UK/Bides-Rekordbox-AutoCuer/blob/master/tutorial/example1.jpg)
+![Alt Text](tutorial/example1.jpg)
 
 
 2. Make a playlist in Rekordbox and ensure that all the tracks have been analysed.
