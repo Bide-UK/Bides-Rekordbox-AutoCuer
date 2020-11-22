@@ -18,7 +18,6 @@ The "Beginner" script uses the default Rekordbox Mac OS Hot Key bindings but wil
 
 The "Advanced" script requires a little bit of setup please go to "Advanced Script Setup" for more details.
 
- <i> <b>WARNING: This script will not work without the default Hot Key bindings.</b> </i>
 
 
 # Installation Guide
