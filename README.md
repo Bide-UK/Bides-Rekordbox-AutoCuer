@@ -3,7 +3,6 @@
 An AppleScript to automate adding Hot Cue and Memory Cue markers in Pioneer's Rekordbox DJ software.
 The tool adds Cue/Memory points in the following arrangement by automating default keyboard shortcuts so you dread using Rekordbox less. 
 
-(READ THE PAGE OR IT WON'T WORK)
 
 ![Alt Text](https://github.com/Bide-UK/Bides-Rekordbox-AutoCuer/blob/master/tutorial/Lazy%20Cue%20v1.02.gif)
 
