@@ -33,7 +33,7 @@ The advanced script needs some additional hot keys added.
 4. Click the Player A + icon to open up the settings.
 5. Scroll down to ```Set Hot Cue A``` and ensure that they're set up with the following bindings (when the warning appears to re-asign the hot key click yes.).
 
-![Alt Text](https://github.com/Bide-UK/Bides-Rekordbox-AutoCuer/blob/master/tutorial/keybinding.jpg)
+![Alt Text](https://github.com/Bide-UK/Bides-Rekordbox-AutoCuer/blob/master/tutorial/Player1_keybindings.png)
 
 
 ## WARNING «
