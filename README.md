@@ -6,7 +6,7 @@ The tool adds Cue/Memory points in the following arrangement by automating defau
 
 ![Alt Text](https://github.com/Bide-UK/Bides-Rekordbox-AutoCuer/blob/master/tutorial/Lazy%20Cue%20v1.02.gif)
 
-<p><b>Tested in Rekordbox 6.3,5.8 and Mac OS Mojave & Catalina</b></p>
+<p><b>Tested in Rekordbox 5.8,6.3 and Mac OS Mojave & Catalina</b></p>
 
 ```
 Beginner  A:0 - B:16 - C:32
