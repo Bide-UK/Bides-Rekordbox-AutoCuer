@@ -38,7 +38,7 @@ The advanced script needs some additional hot keys added.
 
 
 ## WARNING «
-- For best results log into Kuvo and DO NOT Touch the keyboard or mouse once the script is going.
+- For best results log into Kuvo and DO NOT Touch the keyboard or mouse once the script is running.
 - ONLY WORKS WITH DEFAULT REKORDBOX/SCRIPT DEFINED HOT KEYS!
 
 ## How to use 
@@ -51,9 +51,9 @@ The advanced script needs some additional hot keys added.
 2. Make a playlist in Rekordbox and ensure that all the tracks have been analysed.
 2. Make sure that you've aligned the beat grid correctly with the first cue on the first down beat or it will add misaligned cue points.
 3. Find out how many tracks are in the playlist. (For best results use this on tracks that don't have cue points set.)
-4. Load the first track on the playlist and ensure it's loaded in the player in 1 player mode.
+4. Load the first track on the playlist and ensure it's loaded in the player in 1 player mode, the script works downwards in a given playlist.
 5. Press play in the script editor.
-    a. Allow accessibility functionality in security for the script editor
+    a. If this is the first time running the script allow accessibility functionality in security for the script editor.
 6. Enter the number of tracks you want to process e.g playlist has 100 tracks put 100
 7. Wait for the program to finish (DO NOT LET THE COMPUTER SLEEP, TOUCH KEYBOARD or click out of the window).
 
