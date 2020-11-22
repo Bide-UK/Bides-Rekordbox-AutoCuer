@@ -40,7 +40,7 @@ The advanced script needs some additional hot keys added.
 - For best results log into Kuvo and DO NOT Touch the keyboard or mouse once the script is going.
 - ONLY WORKS WITH DEFAULT REKORDBOX/SCRIPT DEFINED HOT KEYS!
 
-## How to use
+## How to use (Video tutorial will be uploaded to my instagram soon https://www.instagram.com/bide_uk)
 1. Ensure Rekorbox is open and in the Export 1 Player setting in the top left.
 
 ![Alt Text](https://github.com/Bide-UK/Bides-Rekordbox-AutoCuer/blob/master/tutorial/example1.png)
