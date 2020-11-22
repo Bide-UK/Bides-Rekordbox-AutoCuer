@@ -1,7 +1,8 @@
 # Bide's Rekordbox AutoCuer v1.0 <a href="https://www.buymeacoffee.com/Bide" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 An AppleScript to automate adding Hot Cue and Memory Cue markers in Pioneer's Rekordbox DJ software.
-The tool adds Cue/Memory points in the following arrangement by automating default keyboard shortcuts so you dread using Rekordbox less.
+The tool adds Cue/Memory points in the following arrangement by automating default keyboard shortcuts so you dread using Rekordbox less. 
+(READ THE PAGE OR IT WON'T WORK)
 
 ![Alt Text](https://github.com/Bide-UK/Bides-Rekordbox-AutoCuer/blob/master/tutorial/Lazy%20Cue%20v1.02.gif)
 
