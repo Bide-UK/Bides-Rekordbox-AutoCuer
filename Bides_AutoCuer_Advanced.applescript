@@ -1,5 +1,5 @@
 # :: Bide's Lazy Cue System V 1.0 :: #
-
+# ALL CUE POINTS (SETUP REQUIRED)
 
 ## WARNING Ç
 #  For best results log into Kuvo and DO NOT Touch the keyboard or mouse once the script is going. 
@@ -17,7 +17,8 @@
 
 tell application "rekordbox"
 	activate
-	display dialog "How many tracks do you want to cue?" default answer "" buttons {"OK"} default button 1
+	display dialog "How many tracks do you want to cue? 
+WARNING: This Advanced Script will not work unless you've set up the hot keys." default answer "" buttons {"Cancel", "Continue"} default button "Continue"
 	set myVariable to the text returned of the result
 	set mystring to "Your going to run over " & myVariable
 	#display dialog myVariable buttons {"OK"} default button 1
@@ -54,7 +55,7 @@ tell application "System Events"
 		
 		
 		# move forward 16 bars 
-		repeat 16 times
+		repeat 16 times #< - Change Number to change placement of Cue
 			delay 0.1
 			# move right 16 
 			key code 124
@@ -75,7 +76,7 @@ tell application "System Events"
 		
 		
 		# move forward 24 bars 
-		repeat 8 times
+		repeat 8 times #< - Change Number to change placement of Cue
 			delay 0.1
 			# move right 8 
 			key code 124
@@ -95,7 +96,7 @@ tell application "System Events"
 		delay 0.1
 		
 		# move forward 32 bars 
-		repeat 8 times
+		repeat 8 times #< - Change Number to change placement of Cue
 			delay 0.1
 			# move right 8 
 			key code 124
@@ -116,7 +117,7 @@ tell application "System Events"
 		
 		
 		# move forward 40 bars 
-		repeat 8 times
+		repeat 8 times #< - Change Number to change placement of Cue
 			delay 0.1
 			# move right 8 
 			key code 124
@@ -138,7 +139,7 @@ tell application "System Events"
 		
 		
 		# move forward 48 bars 
-		repeat 8 times
+		repeat 8 times #< - Change Number to change placement of Cue
 			delay 0.1
 			# move right 8 
 			key code 124
@@ -162,7 +163,7 @@ tell application "System Events"
 		
 		
 		# move forward 64 bars 
-		repeat 16 times
+		repeat 16 times #< - Change Number to change placement of Cue
 			delay 0.1
 			# move right 16 
 			key code 124
@@ -182,8 +183,8 @@ tell application "System Events"
 		delay 0.1
 		
 		
-		# move forward 64 bars 
-		repeat 16 times
+		# move forward 80 bars 
+		repeat 16 times #< - Change Number to change placement of Cue
 			delay 0.1
 			# move right 16 
 			key code 124
@@ -204,13 +205,13 @@ tell application "System Events"
 		
 		
 		
-		repeat 16 times
+		repeat 16 times #< - Change Number to change placement of Cue
 			delay 0.1
 			# move right 16 
 			key code 124
 		end repeat
 		delay 0.1
-		# press cue
+		# press cue H
 		key code 8
 		delay 1
 		# press memory 3 
