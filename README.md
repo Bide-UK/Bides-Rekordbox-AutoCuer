@@ -43,6 +43,7 @@ The advanced script needs some additional hot keys added.
 
 ## How to use 
 (Video tutorial will be uploaded to my instagram soon https://www.instagram.com/bide_uk)
+Ensure Keyboard is set to US or UK English laylout. https://thetypingcat.com/howto/change-your-keyboard-layout-mac-os-x
 1. Ensure Rekorbox is open and in the Export 1 Player setting in the top left.
 
 ![Alt Text](https://github.com/Bide-UK/Bides-Rekordbox-AutoCuer/blob/master/tutorial/example1.png)
