@@ -16,7 +16,7 @@ Advanced  A:0 - B:16 - C:24 - D:32 - E:40 - F:48 - G:64 - H:80
 
 The "Beginner" script uses the default Rekordbox Mac OS Hot Key bindings but will only place 3 Cue/Memory Points.
 
-The "Advanced" script requires a little bit of setup please go to ""Advanced Script Setup" for more details.
+The "Advanced" script requires a little bit of setup please go to "Advanced Script Setup" for more details.
 
  <i> <b>WARNING: This script will not work without the default Hot Key bindings.</b> </i>
 
